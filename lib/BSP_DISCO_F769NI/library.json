@@ -1,0 +1,8 @@
+{
+    "name": "BSP_DISCO_F758NI",
+    "version": "1.0.0",
+    "build": {
+        "includeDir": ".",
+        "srcDir": "."
+    }
+}
